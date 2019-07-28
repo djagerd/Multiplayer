@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1564305014,
+	"version": 1564336434,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -12,6 +12,7 @@
 		"images/palmtree-sheet0.png",
 		"images/inv-sheet0.png",
 		"images/hero-sheet0.png",
+		"images/tiledbackground2.png",
 		"media/walk_snow.ogg",
 		"media/chestopen.ogg",
 		"media/chestclosed.ogg",
